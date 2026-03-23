@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Full Stack Web Development (MERN)** and building real-world applications  
+🔭 I’m currently working on **Software Development** and building real-world applications  
 👯 I’m looking to collaborate on **Web Development, Java Projects, and Open-Source Contributions**  
 🤝 I’m looking for help with **advanced backend development & scalable architectures**  
 🌱 I’m currently learning **Java | MERN Stack | REST APIs | Deployment**  
